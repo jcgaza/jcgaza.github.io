@@ -1,0 +1,14 @@
+---
+layout: single
+title: "Hi!"
+date: 2025-12-27 05:37:37 +0800
+categories: personal
+---
+
+Hi! _Kumusta?_
+
+I figured that I need to migrate some of the stuff that I am writing into a personal blog, where I could share some of my ramblings on work, research, and some personal reflections into one, big, blog. I also figured that it would be a nice repository of the work that I have done. So let me share them to you here, and I hope that you'll listen.
+
+Cheers!
+
+_Ced_
